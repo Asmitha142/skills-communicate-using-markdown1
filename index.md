@@ -7,3 +7,7 @@
 ![Engineering fact](https://theawesomedaily.com/wp-content/uploads/2018/02/engineering-memes-16-1.jpg)
 
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
